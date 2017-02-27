@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>fee-lasvegas</title>
+		<description>TIY Las Vegas Frontend Engineering</description>
+		<link>http://fee-lasvegas.github.io/</link>
+		<atom:link href="http://fee-lasvegas.github.io//feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Welcome</title>
+				<description>&lt;p&gt;Welcome to the Front End class at The Iron Yard! We hope you are as excited to be joining us as we are to be teaching you. It is time to start getting ready for the class and get a glimpse at what the next few months have in store for you and your classmates. Here are some things you need to get squared away before we kick off next week:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/setup&quot;&gt;Get and setup your Mac&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/expectations&quot;&gt;Read through the expectations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/prework&quot;&gt;Complete your prework&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;The prework is not trivial so you need to get started as soon as possible to give yourself enough time before you start.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have any questions please feel free to reach out to me before the class begins.&lt;/p&gt;
+</description>
+				<pubDate>Sun, 26 Feb 2017 14:15:00 -0800</pubDate>
+				<link>http://fee-lasvegas.github.io//welcome</link>
+				<guid isPermaLink="true">http://fee-lasvegas.github.io//welcome</guid>
+			</item>
+		
+	</channel>
+</rss>
